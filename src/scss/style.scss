@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri:400,400i|Cinzel+Decorative:400,900');
+
 body {
-  font-size: 45px;
-  background-color: green;
-  color: yellow;
+  font-family: 'Amiri', serif;
+}
+
+h1 {
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+p {
+  font-size: 18px;
+  font-style: italic;
 }
